@@ -1,0 +1,4 @@
+#define GEMMA_VERSION "1.0.0"
+#define GEMMA_DATE "2026-05-20"
+#define GEMMA_YEAR "2026"
+#define GEMMA_PROFILE ""
